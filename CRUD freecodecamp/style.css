@@ -22,6 +22,10 @@ body {
     justify-content: space-between;
   }
   
+  .postButton{
+    cursor: pointer;
+  }
+  
   .options {
     display: flex;
     gap: 25px;
